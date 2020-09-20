@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "Gaurav",
+      "description": "This is just for streaming",
+      "id": 1
+    },
+    {
+      "title": "I Created This Stream",
+      "description": "This was made by me!.ksdchjb",
+      "id": 2
+    },
+    {
+      "title": "final title",
+      "description": "description can be imagined",
+      "userId": "107366414012728016541",
+      "id": 4
+    }
+  ]
+}
